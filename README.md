@@ -1,7 +1,7 @@
 # FileExplorer
 This custom File Explorer implementation is an Android application written in Java which allows for easy file viewing and manipulation. Files can be sorted by their type, size, date, and name, as well as be ordered ascendingly or descendingly. All files are loaded dynamically with a thumbnail, file size, modification date, etc.
 
-A video demonstration is available <a href="?">here></a>.
+A video demonstration is available <a href="?">here</a>.
 
 This application has a minimum SDK version of 23 and a target version of 29.
 
